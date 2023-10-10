@@ -32,4 +32,4 @@ bash  /path/to/find_image.sh
 3. Follow the on-screen prompts to invert permissions as desired
 
 ## Demo
-(image.gif)
+![](image.gif)

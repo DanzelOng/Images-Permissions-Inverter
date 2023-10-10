@@ -19,7 +19,7 @@ This Bash script helps to identify images files in the current directory, displa
 	+ Displays current data and time
 
 ## Linux Environment
-The script was written in Ubuntu 22.04 LTS, 64 bit architecture.
+The script was developed in Ubuntu 22.04 LTS running on a 64-bit architecture, hosted within VirtualBox.
 
 ## Usage
 1. Navigate to the directory containing your image files
@@ -27,7 +27,7 @@ The script was written in Ubuntu 22.04 LTS, 64 bit architecture.
 2. Run the script:
 
 ```bash
-bash  /path/to/find_image.sh
+bash /path/to/find_image.sh
 ```
 3. Follow the on-screen prompts to invert permissions as desired
 
